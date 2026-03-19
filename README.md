@@ -6,3 +6,6 @@ My project is an Arduino enclosure! It has gaps for places where you insert cabl
 ![pic1](Pictures_of_Project/Screenshot%202026-03-18%20212343.png)
 
 ![pic2](Pictures_of_Project/Screenshot%202026-03-18%20212413.png)
+
+
+![pic3](Pictures_of_Project/Screenshot%202026-03-18%20212427.png)
