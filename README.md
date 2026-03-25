@@ -9,3 +9,14 @@ My project is an Arduino enclosure! It has gaps for places where you insert cabl
 
 
 ![pic3](Pictures_of_Project/Screenshot%202026-03-18%20212427.png)
+
+
+Here are pictures of it in real life:
+
+![1](Pictures_of_Project/IMG_4580.jpeg)
+![2](Pictures_of_Project/IMG_4581.jpeg)
+![3](Pictures_of_Project/IMG_4582.jpeg)
+![4](Pictures_of_Project/IMG_4583.jpeg)
+![5](Pictures_of_Project/IMG_4584.jpeg)
+![6](Pictures_of_Project/IMG_4585.jpeg)
+![7](Pictures_of_Project/IMG_4586.jpeg)
